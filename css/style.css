@@ -1,0 +1,36 @@
+/* CSS Document */
+
+.tool-box{
+	width: 200px;
+	min-height:300px;
+	border:1px solid #ccc;
+	border-radius: 10px;
+	opacity: .8;
+	position: absolute;
+	top:30px;
+	right: 30px;
+}
+.title{
+	align-content: center;
+	text-align: center;
+	widows: 100%;
+	border-bottom: 1px solid #ccc;
+	padding: 10px 0 10px 0;
+	margin: 0;
+	color: #B1B1B1;
+}
+.field-content{
+	width: 100%;
+	text-align: center;
+	margin: 3px 0 3px 0;
+}
+
+input#logo{
+	background-color: #F3E8E8;
+}
+
+.content{
+	border: 1px solid #cccccc;
+	min-width: 300px;
+	min-height: 700px;
+}
